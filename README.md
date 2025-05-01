@@ -21,7 +21,7 @@ const aboutMe = {
   location: "🌍 Pakistan",
   motto: "Code with purpose, design with empathy."
 }
-
+```
 Tech Stack
 Frontend
 
