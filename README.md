@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm M.Zohaib Ali</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Zohaib Ali</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Freelancer | Open to Opportunities</h3>
 
 <p align="center">
