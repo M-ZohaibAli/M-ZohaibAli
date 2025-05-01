@@ -41,6 +41,6 @@ Tools & DevOps
 
 🌐 Website: https://devwithzohaib.rf.gd
 
-💼 LinkedIn: linkedin.com/in/m-zohaibali
+💼 LinkedIn: https://linkedin.com/in/m-zohaibali
 
-💻 GitHub: github.com/m-zohaibali
+💻 GitHub: https://github.com/m-zohaibali
