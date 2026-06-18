@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Zohaib Ali</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Freelancer | Open to Opportunities</h3>
+<h1 align="center">Hi there , I'm Muhammad Zohaib Ali</h1>
+<h3 align="center"> Full Stack Web Developer | Freelancer | Open to Opportunities</h3>
 
 <p align="center">
   <a href="https://devwithzohaib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 ```js
 const aboutMe = {
   name: "Muhammad Zohaib Ali",
@@ -18,7 +18,7 @@ const aboutMe = {
   freelancing: true,
   openToWork: true,
   interests: ["Web Dev", "SaaS", "API Dev", "UI/UX"],
-  location: "🌍 Pakistan",
+  location: " Pakistan",
   motto: "Code with purpose, design with empathy."
 }
 ```
@@ -36,11 +36,11 @@ Tools & DevOps
 
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> </p>
 
-📫 Let's Connect
-💌 Email: ilabiahoz890@gmail.com
+ Let's Connect
+ Email: ilabiahoz890@gmail.com
 
-🌐 Website: https://devwithzohaib.rf.gd
+ Website: https://devwithzohaib.vercel.app
 
-💼 LinkedIn: https://linkedin.com/in/m-zohaibali
+ LinkedIn: https://linkedin.com/in/m-zohaibali
 
-💻 GitHub: https://github.com/m-zohaibali
+ GitHub: https://github.com/m-zohaibali
