@@ -37,7 +37,7 @@ Tools & DevOps
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> </p>
 
  Let's Connect
- Email: ilabiahoz890@gmail.com
+
 
  Website: https://devwithzohaib.vercel.app
 
