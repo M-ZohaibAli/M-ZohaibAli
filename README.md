@@ -42,5 +42,4 @@ Tools & DevOps
 
  LinkedIn: https://linkedin.com/in/m-zohaibali
 
- GitHub: https://github.com/m-zohaibali
-![Profile Views](https://komarev.com/ghpvc/?username=M-Zohaibali&color=blue)
+
